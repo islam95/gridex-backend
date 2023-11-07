@@ -1,12 +1,12 @@
 {
-  "name": "gridex",
+  "name": "gridex-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend for halal dex using gridex",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Islam Dudaev",
   "license": "ISC",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",

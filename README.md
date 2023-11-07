@@ -1,3 +1,3 @@
-# Gridex Protocol Integration Environment
+# Halal Dex Backend
 
-Learn to build your first on chain integration 
+Backend for halaldex.com using Gridex integration.
